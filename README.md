@@ -43,9 +43,9 @@
 ## 🚀 Featured Project
 
 ### **College Placement Management System**
-<p align="center">
+< align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</p>
+</p
 
 **Tech Used:** HTML, CSS, JS, Node.js, Express.js, MongoDB  
 **Features:**

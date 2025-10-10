@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 B.Tech CSE student @ SRM | Aspiring Software Engineer  
-Solved **170+ LeetCode** & **176+ GFG** problems  
+Solved **200+ LeetCode** & **200+ GFG** problems  
 Interested in **Data Structures, Algorithms, and Full Stack Development**  
 Continuously learning and improving problem-solving & coding skills  
 
@@ -38,10 +38,6 @@ A web-based platform to manage college placements efficiently.
 
 ---
 
-## 📊 GitHub Stats
-
-![Amber’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&theme=radical)
 
 
 ## 📫 Connect with Me

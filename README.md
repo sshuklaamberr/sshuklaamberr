@@ -1,296 +1,113 @@
-<!-- ANIMATED HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Amber%20Shukla&fontSize=70&color=0:8B5CF6,50:06B6D4,100:10B981&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=17&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Amber%20Shukla&fontSize=60&color=0:8B5CF6,100:06B6D4&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20SRM%20University&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
-<!-- ANIMATED TYPING -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&random=true&width=700&height=60&lines=🚀+Building+the+future%2C+one+commit+at+a+time;💡+400%2B+DSA+Problems+Solved+and+counting...;🔥+MERN+Stack+%7C+Clean+Code+Advocate;🎯+Open+for+SDE+Internship+Opportunities;⚡+SRM+University+%7C+B.Tech+CS)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=🚀+MERN+Stack+Developer;💡+400%2B+DSA+Problems+Solved;🎯+Open+for+SDE+Internships)](https://git.io/typing-svg)
 
 </div>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaaamber/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaaamber/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://ambershukla-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaamber01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshuklaamberr)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sshuklaamberr&color=8B5CF6&style=for-the-badge&label=👁️+PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sshuklaamberr?style=for-the-badge&color=06B6D4&label=Followers)
+![Views](https://komarev.com/ghpvc/?username=sshuklaamberr&color=8B5CF6&style=flat-square&label=Profile+Views)
 
 </div>
-
-<br>
 
 ---
 
-<!-- ANIMATED ABOUT SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```typescript
-const amber: Developer = {
-  name:       "Amber Shukla",
-  location:   "India 🇮🇳",
-  university: "SRM University",
-  degree:     "B.Tech — Computer Science",
-
-  currentRole:  "Aspiring SDE Intern",
-  lookingFor:   ["Internships", "Collabs", "Open Source"],
-
-  dailyRoutine: [
-    "☕ Coffee",
-    "💻 Code",
-    "🐛 Debug",
-    "🔁 Repeat"
-  ],
-
-  skills: {
-    dsa:      "400+ problems solved 🔥",
-    frontend: ["React", "HTML", "CSS", "JS"],
-    backend:  ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    language: ["C++", "Java", "JavaScript"]
-  },
-
-  funFact: "I turn ☕ into </code>",
-  openTo:  true  // Always open to opportunities!
+const amber = {
+  university : "SRM University — B.Tech CS",
+  role       : "Aspiring SDE Intern 🎯",
+  dsa        : "400+ problems solved 🔥",
+  stack      : ["React", "Node.js", "MongoDB"],
+  languages  : ["C++", "Java", "JavaScript"],
+  openTo     : true // always!
 };
 ```
+
+- 🏗️ Building **HyperNest Media** — a real digital agency
+- 💻 Consistent DSA practice on LeetCode & GFG daily
+- 🌱 Currently leveling up: **System Design + DSA Hard**
+- ⚡ Fun fact: I turn `☕` into `</code>`
 
 <br clear="right"/>
 
 ---
 
-<!-- ANIMATED SKILLS ICONS -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark&perline=6" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=6" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=6" />
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,git,vscode&theme=dark&perline=6"/>
 
 </div>
 
 ---
 
-<!-- DSA SECTION -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;Problem Solving Arena
+## 🚀 Featured Projects
+
+### 🌐 HyperNest Media
+> Digital agency platform for startups that care about **performance, clarity & scale** — from UI/UX design to deployment, built for real-world growth.
 
 <div align="center">
 
-| 🏆 Platform | ✅ Solved | 🔥 Status | 🎯 Focus |
-|:-----------:|:--------:|:--------:|:-------:|
-| 🟡 LeetCode | 200+ | Active Daily | Medium grind |
-| 🟢 GeeksForGeeks | 200+ | Active Daily | Concept depth |
+![Status](https://img.shields.io/badge/🟢_LIVE-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Digital_Agency-8B5CF6?style=flat-square)
+![Stack](https://img.shields.io/badge/React_+_Node.js_+_Vercel-06B6D4?style=flat-square)
 
-</div>
-
-### 🧠 DSA Topic Mastery Map
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  TOPIC                     MASTERY            STATUS            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Arrays & Strings          ██████████ 100%   ✅ Mastered        ║
-║  Recursion & Backtracking  ████████░░  80%   ✅ Strong          ║
-║  Linked List               ████████░░  80%   ✅ Strong          ║
-║  Stack & Queue             ██████████ 100%   ✅ Mastered        ║
-║  Trees & BST               ███████░░░  70%   🔄 Practicing      ║
-║  Graphs (BFS / DFS)        ██████░░░░  60%   🔄 Practicing      ║
-║  Searching & Sorting       ██████████ 100%   ✅ Mastered        ║
-║  Dynamic Programming       ████░░░░░░  40%   🚧 In Progress     ║
-║  Greedy Algorithms         ███░░░░░░░  35%   🚧 Coming Next     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- FEATURED PROJECT -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;Featured Projects
-
-<div align="center">
-
-### 🎓 College Placement Management System
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TYPE-FULL%20STACK-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IMPACT-REAL%20WORLD-orange?style=for-the-badge"/>
-
-</div>
-
-> 🚀 **A production-ready platform** that digitizes the entire college placement lifecycle — from student onboarding to final offer management.
-
-<details>
-<summary><b>📐 System Architecture</b> (Click to expand)</summary>
-
-```
-┌──────────────────────────────────────────────────────┐
-│                SYSTEM ARCHITECTURE                    │
-├──────────────────────────────────────────────────────┤
-│                                                       │
-│   Client (HTML + CSS + JS / React)                   │
-│         │                                             │
-│         ▼                                             │
-│   Express.js REST API  ←── JWT Auth Middleware       │
-│         │                                             │
-│         ▼                                             │
-│   MongoDB (Mongoose ODM)                              │
-│         │                                             │
-│   ┌─────┴──────────────┐                             │
-│   │  Collections:       │                             │
-│   │  • users            │                             │
-│   │  • students         │                             │
-│   │  • companies        │                             │
-│   │  • drives           │                             │
-│   │  • applications     │                             │
-│   └────────────────────┘                             │
-└──────────────────────────────────────────────────────┘
-```
-</details>
-
-<details>
-<summary><b>✨ Key Features</b> (Click to expand)</summary>
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🔐 Role Auth | Admin / Student / Company JWT | ✅ Done |
-| 📅 Drive Manager | Schedule & track placement drives | ✅ Done |
-| 📊 Analytics Dashboard | Real-time stats & reports | ✅ Done |
-| 🔒 Secure APIs | Validation + Error Handling | ✅ Done |
-| 📱 Responsive UI | Mobile-first design | ✅ Done |
-
-</details>
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-[![View Code](https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshuklaamberr)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://hypernestmedia.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/sshuklaamberr)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS SUITE -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">&nbsp; GitHub Analytics
+### 🧑‍💻 Developer Portfolio
+> A clean, fast personal portfolio showcasing my projects, skills and journey — designed to make a strong first impression.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff" height="170"/>
+![Status](https://img.shields.io/badge/🟢_LIVE-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square)
+![Stack](https://img.shields.io/badge/React_+_CSS_+_Vercel-06B6D4?style=flat-square)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sshuklaamberr&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=10B981&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B9099)](https://git.io/streak-stats)
-
-</div>
-
-<!-- TROPHIES -->
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sshuklaamberr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-
-### 🐍 My Contributions Being Devoured
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Amber's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sshuklaamberr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=10B981)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-FF5733?style=for-the-badge&logo=vercel)](https://ambershukla-portfolio.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/sshuklaamberr)
 
 </div>
 
 ---
 
-<!-- 2025 ROADMAP -->
-## 🗺️ 2025 Roadmap
-
-```
-Q1 2025 ────────────────────────────────────────────── Q4 2025
-   │                                                       │
-   ▼                                                       ▼
-[✅ MERN]──►[🔄 DSA 500+]──►[🎯 Internship]──►[☁️ AWS Basics]
-                │
-                └──►[🌐 Deploy Projects]──►[📖 System Design]──►[🤝 OSS]
-```
-
-| Quarter | Goal | Status |
-|---------|------|--------|
-| Q1 2025 | MERN Stack mastery | ✅ Done |
-| Q1–Q2 | 500+ DSA problems | 🔄 400+ done |
-| Q2 2025 | Land first SDE Internship | 🎯 Actively applying |
-| Q2–Q3 | Deploy 2 production apps | 🚧 In progress |
-| Q3 2025 | System Design basics | 📚 Planned |
-| Q4 2025 | AWS/Cloud + Certification | ☁️ Upcoming |
-
----
-
-<!-- RANDOM DEV QUOTE -->
-## 💭 Dev Quote of the Day
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="160"/>
 
 </div>
 
----
+<div align="center">
 
-<!-- CONNECT SECTION -->
-## 🤝 Let's Build Something Together
+[![Streak](https://streak-stats.demolab.com?user=sshuklaamberr&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=10B981)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-**I'm actively seeking SDE Internship opportunities!**
-Whether it's an opportunity, project idea, or just a tech chat — reach out 👇
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaaamber/)
-&nbsp;
-[![Email](https://img.shields.io/badge/📧_Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaamber01@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/⭐_Star_My_Repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshuklaamberr)
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sshuklaamberr&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -298,8 +115,11 @@ Whether it's an opportunity, project idea, or just a tech chat — reach out �
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+💭 *"We don't just create websites — we build digital foundations that help brands grow, convert, and scale."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer&animation=twinkling" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuklaaamber/)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail)](mailto:shuklaamber01@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer" width="100%"/>
 
 </div>

@@ -2,11 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Amber%20Shukla&fontSize=60&color=0:8B5CF6,100:06B6D4&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20SRM%20University&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=🚀+MERN+Stack+Developer;💡+400%2B+DSA+Problems+Solved;🎯+Open+for+SDE+Internships)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
 

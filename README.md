@@ -13,8 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaaamber/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://ambershukla-portfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaamber01@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shukla_amber_/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sshuklaamberr)
 
 ![Views](https://komarev.com/ghpvc/?username=sshuklaamberr&color=8B5CF6&style=flat-square&label=Profile+Views)
 
@@ -40,7 +40,7 @@ const amber = {
 - 🏗️ Building **HyperNest Media** — a real digital agency
 - 💻 Consistent DSA practice on LeetCode & GFG daily
 - 🌱 Currently leveling up: **System Design + DSA Hard**
-- ⚡ Fun fact: I turn `☕` into `</code>`
+
 
 <br clear="right"/>
 
@@ -59,7 +59,7 @@ const amber = {
 ## 🚀 Featured Projects
 
 ### 🌐 HyperNest Media
-> Digital agency platform for startups that care about **performance, clarity & scale** — from UI/UX design to deployment, built for real-world growth.
+> "HyperNest Media is a premium digital agency specializing in high-conversion web design and development. We partner with forward-thinking businesses to create exceptional online experiences that drive measurable results. From startups to established enterprises, we transform visions into pixel-perfect reality."
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const amber = {
 
 <div align="center">
 
-💭 *"We don't just create websites — we build digital foundations that help brands grow, convert, and scale."*
+
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuklaaamber/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail)](mailto:shuklaamber01@gmail.com)

@@ -1,121 +1,136 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Amber%20Shukla&fontSize=60&color=0:8B5CF6,100:06B6D4&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20%7C%20SRM%20University&descAlignY=58&descSize=16" width="100%"/>
-</div>
 
+<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/hero.svg" width="100%" alt="Amber Shukla — Full-Stack Developer, SRM University"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=400&size=15&duration=3200&pause=1000&color=6B6B6F&center=true&vCenter=true&width=760&letterSpacing=1px&lines=Building+production+SaaS+%E2%80%94+not+tutorial+clones;500%2B+DSA+problems+solved+across+LeetCode+%2B+GeeksforGeeks;Open+to+SDE+internships%2C+2026%E2%80%9327+cycle" alt="Rotating tagline"/>
 
-<div align="center">
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuklaaamber/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://ambershukla-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaamber01@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shukla_amber_/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sshuklaamberr)
+<a href="https://www.linkedin.com/in/shuklaaamber/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=flat-square&logo=linkedin&logoColor=C9A227&labelColor=0A0A0C" alt="LinkedIn"/></a>&nbsp;
+<a href="https://ambershukla-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0C?style=flat-square&logo=vercel&logoColor=C9A227&labelColor=0A0A0C" alt="Portfolio"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Resume-0A0A0C?style=flat-square&logo=googledrive&logoColor=C9A227&labelColor=0A0A0C" alt="Resume"/></a>&nbsp;
+<a href="mailto:shuklaamber01@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0C?style=flat-square&logo=gmail&logoColor=C9A227&labelColor=0A0A0C" alt="Email"/></a>&nbsp;
+<a href="https://leetcode.com/u/shukla_amber_/"><img src="https://img.shields.io/badge/LeetCode-0A0A0C?style=flat-square&logo=leetcode&logoColor=C9A227&labelColor=0A0A0C" alt="LeetCode"/></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/sshuklaamberr"><img src="https://img.shields.io/badge/GfG-0A0A0C?style=flat-square&logo=geeksforgeeks&logoColor=C9A227&labelColor=0A0A0C" alt="GeeksforGeeks"/></a>
 
-![Views](https://komarev.com/ghpvc/?username=sshuklaamberr&color=8B5CF6&style=flat-square&label=Profile+Views)
+<br/><br/>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-```typescript
-const amber = {
-  university : "SRM University — B.Tech CS",
-  role       : "Aspiring SDE Intern 🎯",
-  dsa        : "400+ problems solved 🔥",
-  stack      : ["React", "Node.js", "MongoDB"],
-  languages  : ["C++", "Java", "JavaScript"],
-  openTo     : true // always!
-};
-```
-
-- 🏗️ Building **HyperNest Media** — a real digital agency
-- 💻 Consistent DSA practice on LeetCode & GFG daily
-- 🌱 Currently leveling up: **System Design + DSA Hard**
-
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,html,css,git,vscode&theme=dark&perline=6"/>
+<img src="https://komarev.com/ghpvc/?username=sshuklaamberr&color=0A0A0C&style=flat-square&label=VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+> Set the **Resume** link (`#`) to your hosted resume URL before publishing.
 
-### 🌐 HyperNest Media
-> "HyperNest Media is a premium digital agency specializing in high-conversion web design and development. We partner with forward-thinking businesses to create exceptional online experiences that drive measurable results. From startups to established enterprises, we transform visions into pixel-perfect reality."
+<div align="center"><img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/divider.svg" width="100%" alt=""/></div>
+
+### Overview
+
+**B.Tech, Computer Science — Data Science**
+SRM University, Chennai &nbsp;&#183;&nbsp; 2024–2028 &nbsp;&#183;&nbsp; CGPA 8.67 / 10
+
+Third-year student building production software rather than tutorial clones — HyperNest Media is a live platform processing real client payments. Currently focused on backend architecture, authentication systems, and system design ahead of the 2026–27 SDE internship cycle.
+
+<br/>
+
+<table>
+<tr><td width="140"><sub>LANGUAGES</sub></td><td>C++ &nbsp;&#183;&nbsp; JavaScript &nbsp;&#183;&nbsp; TypeScript &nbsp;&#183;&nbsp; HTML &nbsp;&#183;&nbsp; CSS</td></tr>
+<tr><td><sub>FRONTEND</sub></td><td>React.js &nbsp;&#183;&nbsp; Tailwind CSS &nbsp;&#183;&nbsp; Framer Motion</td></tr>
+<tr><td><sub>BACKEND</sub></td><td>Node.js &nbsp;&#183;&nbsp; Express.js &nbsp;&#183;&nbsp; MongoDB &nbsp;&#183;&nbsp; Firebase &nbsp;&#183;&nbsp; REST APIs</td></tr>
+<tr><td><sub>AUTH &amp; SECURITY</sub></td><td>JWT &nbsp;&#183;&nbsp; OAuth 2.0 &nbsp;&#183;&nbsp; RBAC &nbsp;&#183;&nbsp; bcrypt &nbsp;&#183;&nbsp; Firestore Rules</td></tr>
+<tr><td><sub>TOOLING</sub></td><td>Git &nbsp;&#183;&nbsp; GitHub &nbsp;&#183;&nbsp; Postman &nbsp;&#183;&nbsp; Vercel &nbsp;&#183;&nbsp; VS Code</td></tr>
+</table>
+
+<div align="center"><img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/divider.svg" width="100%" alt=""/></div>
+
+### Projects
+
+<br/>
+
+**HyperNest Media** — Full-Stack SaaS Platform &nbsp;&#183;&nbsp; 2026
+<sub>React &nbsp;&#183;&nbsp; TypeScript &nbsp;&#183;&nbsp; Firebase &nbsp;&#183;&nbsp; Razorpay</sub>
+
+A live SaaS platform integrating Razorpay payments with real-time Firestore persistence, managing the full transaction lifecycle. Processed ₹40,000+ across 10+ paying clients — in active use, not a demo.
+
+- Role-based admin dashboard (RBAC) with real-time filtering and payment tracking
+- Live configuration system via Firestore `onSnapshot` listeners, no redeploy required
+- Backend secured with Firebase Auth and Firestore Security Rules
+- Authentication powered by AuthNest (below) — JWT + OAuth, protected routes
+
+[Live](https://hypernestmedia.vercel.app) &nbsp;&#183;&nbsp; [GitHub](https://github.com/sshuklaamberr/hypernestmedia)
+
+<br/>
+
+**AuthNest** — Authentication System &nbsp;&#183;&nbsp; 2025
+<sub>Node.js &nbsp;&#183;&nbsp; Express &nbsp;&#183;&nbsp; MongoDB &nbsp;&#183;&nbsp; JWT &nbsp;&#183;&nbsp; OAuth</sub>
+
+A reusable authentication service, later integrated into HyperNest Media in production.
+
+- Google OAuth 2.0 with token exchange, user normalization, and account linking
+- JWT-based stateless auth with secure session management
+- RBAC authorization for fine-grained API access control
+- MVC architecture with input validation, rate limiting, centralized error handling
+
+[GitHub](https://github.com/sshuklaamberr/authnest)
+
+<br/>
+
+**Personal Portfolio** &nbsp;&#183;&nbsp; 2024
+<sub>React &nbsp;&#183;&nbsp; Tailwind CSS &nbsp;&#183;&nbsp; Framer Motion</sub>
+
+A fully responsive, component-based portfolio. Lighthouse 90+ via lazy loading and code splitting.
+
+[Live](https://ambershukla-portfolio.vercel.app) &nbsp;&#183;&nbsp; [GitHub](https://github.com/sshuklaamberr/ambershukla-portfolio)
+
+<br/>
+
+> The **AuthNest** repo URL was inferred from the project name — your resume didn't list it directly. Confirm it matches before publishing.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/divider.svg" width="100%" alt=""/></div>
+
+### Competitive Programming
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/🟢_LIVE-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Digital_Agency-8B5CF6?style=flat-square)
-![Stack](https://img.shields.io/badge/React_+_Node.js_+_Vercel-06B6D4?style=flat-square)
+**500+ problems solved** &nbsp;&#183;&nbsp; LeetCode (250+) and GeeksforGeeks (250+)
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://hypernestmedia.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/sshuklaamberr)
+<sub>Dynamic Programming &#183; Graphs &#183; Trees &#183; Binary Search &#183; Recursion &#183; Hashing &#183; Sorting</sub>
+
+<br/>
+
+Weighted toward Medium/Hard difficulty, with an emphasis on optimized solutions over brute force.
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/divider.svg" width="100%" alt=""/></div>
 
-### 🧑‍💻 Developer Portfolio
-> A clean, fast personal portfolio showcasing my projects, skills and journey — designed to make a strong first impression.
+### GitHub Activity
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/🟢_LIVE-brightgreen?style=flat-square)
-![Type](https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square)
-![Stack](https://img.shields.io/badge/React_+_CSS_+_Vercel-06B6D4?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=C9A227&icon_color=C9A227&text_color=8A8A8E&hide_rank=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=C9A227&text_color=8A8A8E&langs_count=6" height="165" alt="Most used languages"/>
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-FF5733?style=for-the-badge&logo=vercel)](https://ambershukla-portfolio.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/sshuklaamberr)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sshuklaamberr&hide_border=true&background=0A0A0C&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8A8A8E&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=6B6B6F" alt="Contribution streak"/>
 
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="160"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Animated snake through the contribution graph" src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake.svg"/>
+</picture>
 </div>
 
-<div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=sshuklaamberr&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=10B981)](https://git.io/streak-stats)
-
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sshuklaamberr&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuklaaamber/)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail)](mailto:shuklaamber01@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/footer.svg" width="100%" alt=""/>
 
 </div>

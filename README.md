@@ -1,174 +1,187 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/banner.jpg" width="100%" alt="Amber Shukla banner"/>
+# Amber Shukla
+
+### Software Engineer | Full-Stack Development | DSA
+
+**B.Tech CSE (Data Science) @ SRM University, Chennai · 2024–2028 · CGPA 8.65/10**
+
+<a href="https://www.linkedin.com/in/shuklaaamber/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://ambershukla-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/u/shukla_amber_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/sshuklaamberr">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+<a href="mailto:shuklaamber01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/profile.jpg" width="140" alt="Amber Shukla"/>
+## About Me
 
-<h1>Amber Shukla</h1>
+I'm a third-year Computer Science student focused on **software engineering, backend systems, and full-stack development**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=18&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%E2%80%A2+SRM+University;Building+production+SaaS+%E2%80%94+not+tutorial+clones;500%2B+DSA+problems+solved+%E2%80%A2+LeetCode+%2B+GfG;Open+to+SDE+Internships%2C+2026%E2%80%9327" alt="Rotating tagline"/>
+I enjoy building and shipping software rather than only working on academic projects. My recent work includes a live SaaS platform with payments and authentication, a reusable authentication backend, and a performance-focused React portfolio.
 
-<br/><br/>
+Currently preparing for **SDE internship opportunities for 2026–27** with a focus on **DSA, backend engineering, system design, and scalable web applications**.
 
-<a href="https://www.linkedin.com/in/shuklaaamber/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=flat-square&logo=linkedin&logoColor=C9A227&labelColor=0A0A0C" alt="LinkedIn"/></a>&nbsp;
-<a href="https://ambershukla-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0C?style=flat-square&logo=vercel&logoColor=C9A227&labelColor=0A0A0C" alt="Portfolio"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Resume-0A0A0C?style=flat-square&logo=googledrive&logoColor=C9A227&labelColor=0A0A0C" alt="Resume"/></a>&nbsp;
-<a href="mailto:shuklaamber01@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0C?style=flat-square&logo=gmail&logoColor=C9A227&labelColor=0A0A0C" alt="Email"/></a>&nbsp;
-<a href="https://leetcode.com/u/shukla_amber_/"><img src="https://img.shields.io/badge/LeetCode-0A0A0C?style=flat-square&logo=leetcode&logoColor=C9A227&labelColor=0A0A0C" alt="LeetCode"/></a>&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/sshuklaamberr"><img src="https://img.shields.io/badge/GfG-0A0A0C?style=flat-square&logo=geeksforgeeks&logoColor=C9A227&labelColor=0A0A0C" alt="GeeksforGeeks"/></a>
+---
 
-<img src="https://komarev.com/ghpvc/?username=sshuklaamberr&color=0A0A0C&style=flat-square&label=VIEWS" alt="Profile views"/>
+## What I Build
 
-</div>
+* **Full-Stack Applications** — React, TypeScript, Node.js, Express
+* **Backend Systems** — REST APIs, authentication, authorization, MongoDB
+* **Cloud & Firebase** — Firebase Auth, Firestore, deployment
+* **Payments** — Razorpay integration and transaction workflows
+* **DSA** — 500+ problems across LeetCode and GeeksforGeeks
+* **Engineering Practices** — Git, API testing, MVC architecture, error handling
 
-<br/>
+---
 
-B.Tech, Computer Science — Data Science, SRM University, Chennai &nbsp;&#183;&nbsp; 2024–2028 &nbsp;&#183;&nbsp; CGPA 8.67/10. Third-year student building production software rather than tutorial clones — HyperNest Media is a live platform processing real client payments. Currently focused on backend architecture, authentication systems, and system design ahead of the 2026–27 SDE internship cycle.
+## Featured Projects
 
-> Set the Resume badge link (`#`) to your hosted resume URL, and replace `banner.jpg` / `profile.jpg` with your own photos — see `SETUP.md`.
+### 💳 HyperNest Media — Full-Stack SaaS Platform
 
-<br/>
+**React · TypeScript · Firebase · Firestore · Razorpay · Vercel**
 
-## Skills
+A live platform built for a digital services business, combining client-facing workflows with payment processing and an administrative dashboard.
 
-<div align="center">
+**Engineering Highlights**
 
-<br/>
+* Integrated **Razorpay** into the application payment workflow.
+* Implemented real-time data synchronization using **Firestore `onSnapshot`**.
+* Built a role-based admin dashboard for monitoring application and payment data.
+* Implemented authentication and database-level authorization using **Firebase Auth + Firestore Security Rules**.
+* Designed the application so configuration changes can be reflected without requiring a new deployment.
 
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=html&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=css&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=react&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=express&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="55"/> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55"/>
+**Engineering Challenge**
 
-<br/><br/>
+Maintaining consistent application state across the payment workflow and Firestore while enforcing authorization at the database layer rather than relying only on frontend checks.
 
-`JWT`&nbsp; `OAuth 2.0`&nbsp; `RBAC`&nbsp; `bcrypt`&nbsp; `Firestore Rules`&nbsp; `REST APIs`
+[Live Demo](https://hypernestmedia.vercel.app/) · [Source Code](https://github.com/sshuklaamberr/hypernestmedia)
 
-</div>
+---
 
-<br/>
+### 🔐 AuthNest — Authentication Backend
 
-## Project Showcase
+**Node.js · Express · MongoDB · JWT · OAuth 2.0**
 
-<br/>
+A reusable authentication service designed to provide secure authentication and authorization functionality for web applications.
 
-<table>
-<tr>
-<td width="55%">
-<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/hypernest-cover.png" width="100%" alt="HyperNest Media screenshot"/>
-</td>
-<td width="45%" valign="top">
+**Engineering Highlights**
 
-### HyperNest Media
-**Full-Stack SaaS Platform &nbsp;&#183;&nbsp; 2026**
+* Implemented **Google OAuth 2.0** authentication and account linking.
+* Built stateless **JWT-based authentication**.
+* Implemented **role-based access control (RBAC)** for protected API resources.
+* Structured the backend using **MVC architecture**.
+* Added rate limiting and centralized error handling.
+* Designed the service as a reusable backend that could be integrated into other applications.
 
-`React` `TypeScript` `Firebase` `Razorpay`
+**Engineering Challenge**
 
-A live SaaS platform integrating Razorpay payments with real-time Firestore persistence, managing the full transaction lifecycle. Processed ₹40,000+ across 10+ paying clients — actively in use, not a demo.
+Separating authentication concerns into a reusable service while maintaining secure authorization boundaries across different API resources.
 
-- Role-based admin dashboard with real-time payment tracking
-- Live config via Firestore `onSnapshot`, no redeploy required
-- Secured with Firebase Auth + Firestore Security Rules
-- Auth powered by AuthNest (below)
+[Source Code](https://github.com/sshuklaamberr/authnest)
 
-**[Live Demo](https://hypernestmedia.vercel.app)** &nbsp;&#183;&nbsp; **[GitHub](https://github.com/sshuklaamberr/hypernestmedia)**
+---
 
-</td>
-</tr>
-</table>
+### 🎨 Personal Portfolio
 
-<br/>
+**React · Tailwind CSS · Framer Motion · Vercel**
 
-<table>
-<tr>
-<td width="45%" valign="top">
+A responsive, component-based developer portfolio focused on performance, interaction design, and maintainable frontend architecture.
 
-### AuthNest
-**Authentication System &nbsp;&#183;&nbsp; 2025**
+**Engineering Highlights**
 
-`Node.js` `Express` `MongoDB` `JWT` `OAuth`
+* Built reusable React components.
+* Implemented responsive layouts using Tailwind CSS.
+* Added animations and transitions using Framer Motion.
+* Used lazy loading and code splitting to improve page performance.
+* Achieved **90+ Lighthouse performance score**.
 
-A reusable authentication service, later integrated into HyperNest Media in production.
+[Live Site](https://ambershukla-portfolio.vercel.app/) · [Source Code](https://github.com/sshuklaamberr/ambershukla-portfolio)
 
-- Google OAuth 2.0 with token exchange and account linking
-- JWT-based stateless auth with secure session management
-- RBAC authorization for fine-grained API access
-- MVC architecture, rate limiting, centralized error handling
+---
 
-**[GitHub](https://github.com/sshuklaamberr/authnest)**
+## 🧠 DSA & Problem Solving
 
-</td>
-<td width="55%">
-<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/authnest-cover.png" width="100%" alt="AuthNest screenshot"/>
-</td>
-</tr>
-</table>
+**500+ problems solved**
 
-<br/>
+* LeetCode: **250+**
+* GeeksforGeeks: **250+**
 
-<table>
-<tr>
-<td width="55%">
-<img src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/main/assets/portfolio-cover.png" width="100%" alt="Portfolio screenshot"/>
-</td>
-<td width="45%" valign="top">
+Core topics:
 
-### Personal Portfolio
-**2024**
+`Arrays` · `Strings` · `Binary Search` · `Trees` · `Graphs` · `Dynamic Programming` · `Recursion` · `Hashing` · `Sorting`
 
-`React` `Tailwind CSS` `Framer Motion`
+<a href="https://leetcode.com/u/shukla_amber_/">
+<img src="https://leetcard.jacoblin.cool/shukla_amber_?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics" width="60%"/>
+</a>
 
-A fully responsive, component-based portfolio site. Lighthouse 90+ via lazy loading and code splitting.
+---
 
-**[Live Site](https://ambershukla-portfolio.vercel.app)** &nbsp;&#183;&nbsp; **[GitHub](https://github.com/sshuklaamberr/ambershukla-portfolio)**
+## 🛠️ Technical Skills
 
-</td>
-</tr>
-</table>
+**Languages**
 
-<br/>
+C++ · Java · JavaScript · TypeScript · HTML · CSS
 
-> The **AuthNest** repo URL was inferred from the project name — confirm it's correct before publishing.
+**Frontend**
 
-<br/>
+React · Tailwind CSS · Framer Motion
 
-## Competitive Programming
+**Backend**
 
-<div align="center">
+Node.js · Express.js · REST APIs · JWT · OAuth 2.0 · RBAC
 
-**500+ problems solved** &nbsp;&#183;&nbsp; LeetCode (250+) and GeeksforGeeks (250+)
-<sub>Dynamic Programming &#183; Graphs &#183; Trees &#183; Binary Search &#183; Recursion &#183; Hashing &#183; Sorting</sub>
+**Databases & Cloud**
 
-</div>
+MongoDB · Firebase · Firestore
 
-<br/>
+**Tools**
 
-## GitHub Activity
+Git · GitHub · Postman · Vercel · VS Code
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sshuklaamberr&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=C9A227&icon_color=C9A227&text_color=8A8A8E&hide_rank=true" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshuklaamberr&layout=compact&hide_border=true&bg_color=0A0A0C&title_color=C9A227&text_color=8A8A8E&langs_count=6" height="165" alt="Most used languages"/>
+## 🎯 Currently Looking For
 
-<br/>
+**SDE / Software Engineering Internship opportunities for 2026–27**
 
-<img src="https://streak-stats.demolab.com?user=sshuklaamberr&hide_border=true&background=0A0A0C&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8A8A8E&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=6B6B6F" alt="Contribution streak"/>
+I'm particularly interested in roles involving:
 
-<br/><br/>
+* Backend engineering
+* Full-stack development
+* Distributed systems & system design
+* APIs and authentication
+* Data structures & algorithms
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Animated snake through the contribution graph" src="https://raw.githubusercontent.com/sshuklaamberr/sshuklaamberr/output/github-contribution-grid-snake.svg"/>
-</picture>
+---
 
-</div>
+## 🤝 Connect
 
-<br/>
+If you're interested in software engineering, backend systems, or building products, feel free to connect.
+
+<a href="https://www.linkedin.com/in/shuklaaamber/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:shuklaamber01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+</a>
+
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shuklaaamber/"><img src="https://img.shields.io/badge/Let's_Connect-0A0A0C?style=flat-square&logo=linkedin&logoColor=C9A227&labelColor=0A0A0C" alt="Connect on LinkedIn"/></a>&nbsp;
-<a href="mailto:shuklaamber01@gmail.com"><img src="https://img.shields.io/badge/Drop_a_Mail-0A0A0C?style=flat-square&logo=gmail&logoColor=C9A227&labelColor=0A0A0C" alt="Send an email"/></a>
+### Building. Learning. Shipping.
 
 </div>
